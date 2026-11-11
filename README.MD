@@ -1,5 +1,7 @@
 # Dual Coupling in Elastic Spacetime: Gravity as the Stabilizing Restoring Force of Topological Matter
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24046446.svg)](https://doi.org/10.5281/zenodo.24046446)
+
 This repository contains the complete computational framework, source codes, and generated figures for the manuscript titled *"Dual Coupling in Elastic Spacetime: Gravity as the Stabilizing Restoring Force of Topological Matter"*.
 
 ## Overview
